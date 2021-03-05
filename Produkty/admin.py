@@ -9,3 +9,4 @@ admin.site.register(Kategoria)
 #test jr01
 #test jr02
 #test jr034
+#test isuue04
